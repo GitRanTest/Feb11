@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="demogit123Flow" doc:id="749dca0d-9316-46bc-ae31-a67ad9f616b0" >
+		<logger level="INFO" doc:name="Logger" doc:id="37a4ea79-f595-493e-848e-671d6198a3e9" />
+	</flow>
+</mule>
